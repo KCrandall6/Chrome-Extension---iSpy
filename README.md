@@ -6,6 +6,7 @@ A Chrome Extension iSpy game: Find the easter egg
 
 This chrome extension is simply designed as an iSpy game. When loaded into the browser and turned on, a small, slightly translucent easter egg should be hidden somewhere on the page. When the easter egg is found and clicked on, it will blow up to a bigger size and become clear to see.
 
+<br><img src="./Users/kurtcrandall/Desktop/Code Smith Folder/Chrome-Extension---iSpy/images/realEgg.png" width="300px"></img>
 
 # Future work
 
