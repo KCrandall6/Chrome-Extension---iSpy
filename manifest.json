@@ -1,0 +1,16 @@
+{
+  "manifest_version":2,
+  "name":"ISpy",
+  "description": "Find stuff",
+  "version": "1.0.0",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["script.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    "images/realEgg.png"
+  ],
+  "permissions": ["tabs"]
+}
